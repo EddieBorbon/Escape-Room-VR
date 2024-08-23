@@ -1,0 +1,4 @@
+repository "XRI-Example-Scene_2021.3@EddieBorbon@cloud"
+  path "/"
+    br "/main"
+    co "/main"

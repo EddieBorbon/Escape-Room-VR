@@ -1,0 +1,55 @@
+# Unity generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Asset meta data should only be ignored when the corresponding asset is also ignored
+#!/[Aa]ssets/**/*.meta
+
+# Uncomment this line if you wish to ignore the asset store tools plugin
+# [Aa]ssets/AssetStoreTools*
+
+# Auto-generated VS/MD solution and project files
+ExportedObj/
+.consulo/
+.vscode/
+.vscode/*
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.pidb.meta
+
+# Unity3D generated meta files
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# Builds
+*.apk
+*.unitypackage
+*.app
+
+# Crashlytics generated files
+fabric/
+.crashlytics/
+
+# Uncomment if you have added the Unity Package Manager
+# Packages/com.unity.package-manager-ui
+
+# Uncomment if you have added the Unity Collaborate plugin
+# Packages/com.unity.collab-proxy
